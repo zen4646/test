@@ -25,6 +25,19 @@
           "src/main/resources/data/deetest/recipes/asd.json"
         ]
       }
+    },
+    {
+      "name": "Fsa",
+      "type": "recipe",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fsa",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/deetest/recipes/fsa.json"
+        ]
+      }
     }
   ],
   "variable_elements": [],
