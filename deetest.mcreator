@@ -38,6 +38,19 @@
           "src/main/resources/data/deetest/recipes/fsa.json"
         ]
       }
+    },
+    {
+      "name": "Fasda",
+      "type": "recipe",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fasda",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/deetest/recipes/fasda.json"
+        ]
+      }
     }
   ],
   "variable_elements": [],
