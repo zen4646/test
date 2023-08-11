@@ -1,5 +1,18 @@
 {
-  "mod_elements": [],
+  "mod_elements": [
+    {
+      "name": "T",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "t",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/deetest/recipes/t.json"
+        ]
+      }
+    }
+  ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
