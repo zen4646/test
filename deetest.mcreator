@@ -3,12 +3,26 @@
     {
       "name": "T",
       "type": "recipe",
+      "sortid": 2,
       "compiles": true,
       "locked_code": false,
       "registry_name": "t",
       "metadata": {
         "files": [
           "src/main/resources/data/deetest/recipes/t.json"
+        ]
+      }
+    },
+    {
+      "name": "Asd",
+      "type": "recipe",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "asd",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/deetest/recipes/asd.json"
         ]
       }
     }
